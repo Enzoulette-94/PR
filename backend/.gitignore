@@ -1,0 +1,14 @@
+/.bundle
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+!/tmp/pids/
+!/tmp/pids/.keep
+/storage/*
+!/storage/.keep
+/node_modules
+/config/master.key
+.env
+.env.*
+!/env.example

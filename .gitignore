@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Env files
+.env
+.env.*
+
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Backend
+backend/log/*
+backend/tmp/*
+backend/storage/*
+!backend/log/.keep
+!backend/tmp/.keep
+!backend/tmp/pids/
+!backend/tmp/pids/.keep
+!backend/storage/.keep
+backend/.bundle
+backend/config/master.key
