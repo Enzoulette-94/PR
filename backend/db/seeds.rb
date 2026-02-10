@@ -2,29 +2,30 @@ people_data = [
   {
     name: "Xavier",
     slug: "xavier",
-    description: "Grand bourguignon solide, assez complet dans l'ensemble, judoka depuis toujours. Petit problème de mental malgès la volonté de courir 21km avec un adducteur en moins pour ne pas faire la salope devant Thomas."
+    description: "Grand Bourguignon solide, assez complet dans l’ensemble, judoka depuis toujours. Petit problème de mental malgré la volonté de courir 21 km avec un adducteur en moins pour ne pas faire la salope devant Thomas."
   },
   {
     name: "Thomas",
     slug: "thomas",
-    description: "Homme qui s'engage sur les 12 travaux d'Hercule avec un bébé, un concours, une femme, et un 35h. Capable de porter lourd, courir longtemps, avoir des abdos mais ne comprend pas le second degrés et incapable de mettre en vert des PR."
+    description: "Homme qui s’engage sur les 12 travaux d’Hercule avec un bébé, un concours, une femme et un 35 h. Capable de porter lourd, courir longtemps, avoir des abdos, mais ne comprend pas le second degré et est incapable de mettre des PR en vert."
   },
   {
     name: "Yanice",
     slug: "yanice",
-    description: "Dz qui mange du quinoa avec de la sauce boulgour depuis debut janvier. Anomalie physique, monstrueux en crossfit, porte tres lourd mais pas capable de courir 150m ni de suivre une conversation sur WA. Chacun son combat."
+    description: "DZ qui mange du quinoa avec de la sauce boulgour depuis début janvier. Anomalie physique, monstrueux en crossfit, porte très lourd mais n’est pas capable de courir 150 m ni de suivre une conversation sur WhatsApp. Chacun son combat."
   },
   {
     name: "Yannis",
     slug: "yannis",
-    description: "Homme le plus petit en taille mais le plus grand en message whatsapp d'entrainement. Super complet. T'envoie des exercices qui sont pas encore inventes. Capable de rester 6h a la salle mais pas capable de regarder la couleur rose plus de 7 secondes."
+    description: "Homme le plus petit en taille mais le plus grand en messages WhatsApp d’entraînement. Super complet. T’envoie des exercices qui ne sont pas encore inventés. Capable de rester 6 h à la salle mais pas capable de regarder la couleur rose plus de 7 secondes."
   },
   {
     name: "Enzo",
     slug: "enzo",
-    description: "Homme le plus fort et endurant du groupe, mange sainement, bon rythme de sommeil, equilibré parfait, un sans faute, ne valide pas les objectifs pour pas frustrer les copains. Un grand homme."
+    description: "Homme le plus fort et le plus endurant du groupe, mange sainement, bon rythme de sommeil, équilibre parfait, un sans-faute, ne valide pas les objectifs pour ne pas frustrer les copains. Un grand homme."
   }
 ]
+
 
 goals_by_slug = {
   "yannis" => [
