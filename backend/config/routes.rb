@@ -13,4 +13,5 @@ Rails.application.routes.draw do
   delete "/personal_records/:id", to: "personal_records#destroy"
 
   get "/stats/goals", to: "stats#goals"
+  post "/admin/seed", to: "admin#seed"
 end
