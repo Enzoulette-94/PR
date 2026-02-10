@@ -43,7 +43,9 @@ goals_by_slug = {
   "thomas" => [
     "Musculation: Squat à 110 kilos",
     "Musculation: Faire 5 Muscle Up lestés à +10 kilos",
-    "Musculation: Soulever 170 kilos au deadlift"
+    "Musculation: Soulever 170 kilos au deadlift",
+    "Course: 21Km sub 1h32",
+    "Poids: Descendre sous les 80 kilos"
   ],
   "yanice" => [
     "Musculation: Passer 10 Muscle Up",

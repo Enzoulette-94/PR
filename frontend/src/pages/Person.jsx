@@ -161,7 +161,7 @@ function Person({ name, slug }) {
           {goals.map((goal) => (
             <li
               key={goal.id}
-              className={`border-b border-black/10 py-2 dark:border-white/10 ${
+              className={`py-2 ${
                 goal.completed ? 'bg-emerald-200/60 text-black dark:bg-emerald-900/40 dark:text-white' : 'hover:bg-black/5 dark:hover:bg-white/5'
               }`}
             >
